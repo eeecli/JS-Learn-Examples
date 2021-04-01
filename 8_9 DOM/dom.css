@@ -1,0 +1,26 @@
+#testid{
+  background-color: red;
+}
+
+.my-flex-cont {
+  display: flex;
+  height: 100px;
+ }
+ .my-flex-box {
+  margin: 5px;
+  padding: 5px;
+  flex: 0 1 auto;
+  border: 1px solid green;
+  width: 56px;
+ }
+
+ #block-scroll-1{
+  overflow-y: auto;
+  position: relative;
+  height: 212px;
+  width: 212px;
+}
+
+#scroll-conent-1{
+  height: 500px;
+}
